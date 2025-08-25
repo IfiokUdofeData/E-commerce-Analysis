@@ -2,17 +2,6 @@
 
 This project is a **data dashboard** built to visualize and track key metrics. It provides an interactive way to explore information such as sales, expenses, and performance trends.
 
----
-
-## 🚀 Features
-- Clean and minimal user interface.
-- Data visualizations with charts and graphs.
-- Responsive design (works on desktop and mobile).
-- Easy to extend with new datasets.
-
----
-
-## 📷 Screenshots
 
 ### Dashboard Overview
 ![Dashboard Overview](images/salesrevenue.png)
